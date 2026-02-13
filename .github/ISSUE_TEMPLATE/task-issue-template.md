@@ -29,7 +29,7 @@ Specify exactly where deliverables must go:
 - **Branch Name:** `issue##-short-related-name`  
   _(Example: `issue23-update-api-docs`)_
 
-# ✅ Acceptance Criteria  
+# ✅ Acceptance Criteria 
 
 Define clear, testable conditions that must be met for this issue to be considered complete.
 
